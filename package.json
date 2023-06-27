@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Github Light Soft Theme",
+        "label": "Github Light Soft",
         "uiTheme": "vs",
-        "path": "./themes/Github Light Soft Theme-color-theme.json"
+        "path": "./themes/Github Light Soft-color-theme.json"
       }
     ]
   }
