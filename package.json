@@ -1,0 +1,21 @@
+{
+  "name": "vscode-github-light-soft-theme",
+  "displayName": "vscode-github-light-soft-theme",
+  "description": "TODO add description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github Light Soft Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Github Light Soft Theme-color-theme.json"
+      }
+    ]
+  }
+}
