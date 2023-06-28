@@ -599,6 +599,10 @@
       "settings": {
         "foreground": "#800080"
       }
+    },
+    {
+      "scope": "variable.object.property.tsx",
+      "settings": { "foreground": "#24292E" }
     }
   ]
 }
