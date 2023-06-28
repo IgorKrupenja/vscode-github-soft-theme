@@ -73,4 +73,4 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 
 If you have suggestions, please open an [issue](https://github.com/IgorKrupenja/vscode-github-light-soft-theme/issues/new) or, even better, a [pull request](https://github.com/IgorKrupenja/vscode-github-light-soft-theme/pulls).
 
-You can also create issues or README PRs for other extensions that you think should be included in the recommended settings.
+You can also create issues or Readme PRs for other extensions that you think should be included in the recommended settings.
