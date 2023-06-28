@@ -6,8 +6,7 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 
 ## Install
 
-<!-- TODO Add proper link -->
-1. Open the theme page on [VSCode Marketplace](www.google.com).
+1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-light-soft-theme).
 2. Click on the "Install" button and wait for the installation to complete.
 3. Choose "Github Light Soft" from the list that appears.
 
@@ -52,25 +51,25 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 "importCost.smallPackageLightColor": "#22863AAA",
 ```
 
+## Customization
+
+To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme) for a guide. A detailed list of available color customizations is [here](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
+
 ### Semantic highlighting
 
-[Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) is **disabled** for this theme. I found the feature too colorful and distracting. If you want to enable it, add the following to your settings:
+[Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) is **disabled** for this theme by default. I found the feature too colorful and distracting. If you want to enable it, add the following to your settings:
 
 ```json
 "editor.semanticHighlighting.enabled": true,
 ```
 
-This feature can also be enabled per-language if needed, for example:
+It can also be enabled per-language if needed, for example:
 
 ```json
 "[typescript]": {
   "editor.semanticHighlighting.enabled": true
 },
 ```
-
-## Customization
-
-To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme) for a guide. A detailed list of available color customizations is [here](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
 
 ## Change log
 
