@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.6
+
+- Updated screenshots.
+
 ## 0.1.4
 
 - Swapped normal and hover colors for buttons and links.

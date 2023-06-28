@@ -75,10 +75,9 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-### 0.1.4
+### 0.1.6
 
-- Swapped normal and hover colors for buttons and links.
-- Updated theme icon.
+- Updated screenshots.
 
 ## To do
 
