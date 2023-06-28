@@ -3,8 +3,9 @@
   "displayName": "Github Light Soft Theme",
   "description": "TODO add description",
   "version": "0.1.0",
+  "publisher": "IgorKrupenja",
   "engines": {
-    "vscode": "^1.79.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
