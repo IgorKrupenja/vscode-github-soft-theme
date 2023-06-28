@@ -6,7 +6,7 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 
 ## Install
 
-1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-light-soft-theme).
+1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-soft-theme).
 2. Click on the "Install" button and wait for the installation to complete.
 3. Choose "Github Soft" from the list that appears.
 
@@ -81,11 +81,11 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 
 ## To do
 
-- [ ] Investigate changing markdown preview code block colors, [#8](https://github.com/IgorKrupenja/vscode-github-light-soft-theme/issues/8)
-- [ ] Add recommended settings for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [#9](https://github.com/IgorKrupenja/vscode-github-light-soft-theme/issues/9)
+- Investigate changing markdown preview code block colors, [#8](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/8)
+- Add recommended settings for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [#9](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/9)
 
 ## Feedback
 
-If you have suggestions, please open an [issue](https://github.com/IgorKrupenja/vscode-github-light-soft-theme/issues/new) or, even better, a [pull request](https://github.com/IgorKrupenja/vscode-github-light-soft-theme/pulls).
+If you have suggestions, please open an [issue](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/new) or, even better, a [pull request](https://github.com/IgorKrupenja/vscode-github-soft-theme/pulls).
 
 You can also create issues or Readme PRs for other extensions that you think should be included in the recommended settings.

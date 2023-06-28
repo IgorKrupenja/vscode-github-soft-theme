@@ -15,14 +15,14 @@
     "theme": "light"
   },
   "license": "SEE LICENSE IN LICENSE.txt",
-  "homepage": "https://github.com/IgorKrupenja/vscode-github-light-soft-theme/blob/main/README.md",
+  "homepage": "https://github.com/IgorKrupenja/vscode-github-soft-theme/blob/main/README.md",
   "bugs": {
-    "url": "https://github.com/IgorKrupenja/vscode-github-light-soft-theme/issues"
+    "url": "https://github.com/IgorKrupenja/vscode-github-soft-theme/issues"
   },
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IgorKrupenja/vscode-github-light-soft-theme"
+    "url": "https://github.com/IgorKrupenja/vscode-github-soft-theme"
   },
   "contributes": {
     "themes": [
