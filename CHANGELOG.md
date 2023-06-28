@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.7
+
+- Fix colors of some active element indicators.
+- Fix title bar border color.
+
 ## 0.1.6
 
 - Updated screenshots.

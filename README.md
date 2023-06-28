@@ -75,9 +75,10 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-### 0.1.6
+### 0.1.7
 
-- Updated screenshots.
+- Fix colors of some active element indicators.
+- Fix title bar border color.
 
 ## To do
 
