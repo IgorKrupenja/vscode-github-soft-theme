@@ -1,6 +1,6 @@
 {
-  "name": "vscode-github-light-soft-theme",
-  "displayName": "Github Light Soft Theme",
+  "name": "vscode-github-soft-theme",
+  "displayName": "Github Soft Theme",
   "description": "Light and easy on the eyes",
   "version": "0.1.1",
   "publisher": "IgorKrupenja",
@@ -27,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Github Light Soft",
+        "label": "Github Soft",
         "uiTheme": "vs",
-        "path": "./themes/Github Light Soft-color-theme.json"
+        "path": "./themes/Github Light-color-theme.json"
       }
     ]
   }
