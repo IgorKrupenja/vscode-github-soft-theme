@@ -56,6 +56,14 @@ To customize this theme, refer to the [color theme documentation](https://code.v
 "importCost.smallPackageLightColor": "#22863AAA",
 ```
 
+## Change log
+
+See [CHANGELOG.md](CHANGELOG.md) for details.
+
+### 0.1.0
+
+- Initial release 🚀
+
 ## To do
 
 - [ ] Investigate changing markdown preview code block colors, [#8](https://github.com/IgorKrupenja/vscode-github-light-soft-theme/issues/8)
