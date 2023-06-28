@@ -1,4 +1,4 @@
-# Github Light Soft Theme
+# Github Soft Theme
 
 A light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Made specifically to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
 
@@ -8,21 +8,21 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 
 1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-light-soft-theme).
 2. Click on the "Install" button and wait for the installation to complete.
-3. Choose "Github Light Soft" from the list that appears.
+3. Choose "Github Soft" from the list that appears.
 
 ## Screenshots
 
 ### TypeScript
 
-![Github Light Soft Theme with TypeScript](images/screenshot-ts.png)
+![Github Soft Theme with TypeScript](images/screenshot-ts.png)
 
 ### React TSX
 
-![Github Light Soft Theme with React TSX](images/screenshot-tsx.png)
+![Github Soft Theme with React TSX](images/screenshot-tsx.png)
 
 ### SCSS, panel and sidebar
 
-![Github Light Soft Theme with SCSS](images/screenshot-scss.png)
+![Github Soft Theme with SCSS](images/screenshot-scss.png)
 
 ## Recommended settings for other extensions
 
