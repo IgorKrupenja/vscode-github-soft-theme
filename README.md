@@ -88,12 +88,16 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-## 0.2.0
+### 0.2.1
+
+- Fixed editor colors.
+  
+### 0.2.0
 
 - Added suggestions for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) extension.
 - Changed object property color to a less saturated one.
 
-## 0.1.7
+### 0.1.7
 
 - Fixed colors of some active element indicators.
 - Fixed title bar border color.

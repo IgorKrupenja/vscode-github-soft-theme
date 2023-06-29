@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.1
+
+- Fixed editor colors.
+  
 ## 0.2.0
 
 - Added suggestions for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) extension.
