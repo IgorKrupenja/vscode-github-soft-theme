@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.2.2
+
+- Made terminal cursor and default text color off-black.
+- Made notification background white.
+  
 ## 0.2.1
 
 - Fixed editor colors.

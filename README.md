@@ -88,6 +88,11 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
+### 0.2.2
+
+- Made terminal cursor and default text color off-black.
+- Made notification background white.
+  
 ### 0.2.1
 
 - Fixed editor colors.
