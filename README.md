@@ -1,6 +1,6 @@
 # Github Soft Theme
 
-A light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Made specifically to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
+A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Made specifically to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
 
 The theme also offers a flatter UI with a uniform white color for panels and sidebar.
 
@@ -49,6 +49,19 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 "importCost.largePackageLightColor": "#A74047AA",
 "importCost.mediumPackageLightColor": "#DBAB09AA",
 "importCost.smallPackageLightColor": "#22863AAA",
+```
+
+### [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+```json
+"git-graph.graph.colours": [
+  "#D73A4A",
+  "#28A745",
+  "#DCAB07",
+  "#0366D6",
+  "#5B32A3",
+  "#1C7C82"
+],
 ```
 
 ## Customization
