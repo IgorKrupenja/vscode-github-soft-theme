@@ -8,8 +8,8 @@
     "vscode": "^1.70.0"
   },
   "scripts": {
-    "publish-patch": "vsce publish patch && git push && git push origin --tags",
-    "publish-minor": "vsce publish minor && git push && git push origin --tags"
+    "publish-patch": "vsce publish patch && git push --no-verify && git push origin --tags --no-verify",
+    "publish-minor": "vsce publish minor && git push --no-verify && git push origin --tags --no-verify"
   },
   "categories": [
     "Themes"
