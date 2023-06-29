@@ -1,9 +1,14 @@
 # Change Log
 
+## 0.2.0
+
+- Added suggestions for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) extension.
+- Changed object property color to a less saturated one.
+
 ## 0.1.7
 
-- Fix colors of some active element indicators.
-- Fix title bar border color.
+- Fixed colors of some active element indicators.
+- Fixed title bar border color.
 
 ## 0.1.6
 

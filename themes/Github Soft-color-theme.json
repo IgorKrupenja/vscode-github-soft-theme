@@ -604,5 +604,9 @@
       "scope": "variable.object.property.tsx",
       "settings": { "foreground": "#24292E" }
     }
+    {
+      "scope": "variable.object.property.ts",
+      "settings": { "foreground": "#24292E" }
+    }
   ]
 }

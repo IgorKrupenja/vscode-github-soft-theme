@@ -1,6 +1,6 @@
 # Github Soft Theme
 
-A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Made specifically to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
+A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Designed to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
 
 The theme also offers a flatter UI with a uniform white color for panels and sidebar.
 
@@ -66,7 +66,7 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 
 ## Customization
 
-To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme) for a guide. A detailed list of available color customizations is [here](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
+To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme). A detailed list of available color customizations is [here](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
 
 ### Semantic highlighting
 
@@ -88,17 +88,23 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-### 0.1.7
+## 0.2.0
 
-- Fix colors of some active element indicators.
-- Fix title bar border color.
+- Added suggestions for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) extension.
+- Changed object property color to a less saturated one.
+
+## 0.1.7
+
+- Fixed colors of some active element indicators.
+- Fixed title bar border color.
 
 ## To do
 
 - Investigate changing markdown preview code block colors, [#8](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/8)
-- Add recommended settings for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph), [#9](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/9)
 
 ## Feedback
+
+If you like the theme, you add a review here or star on [Github](https://github.com/IgorKrupenja/vscode-github-soft-theme).
 
 If you have suggestions, please open an [issue](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/new) or, even better, a [pull request](https://github.com/IgorKrupenja/vscode-github-soft-theme/pulls).
 
