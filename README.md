@@ -88,6 +88,10 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
+### 0.2.3
+
+- Fixed typo in Readme.
+
 ### 0.2.2
 
 - Made terminal cursor and default text color off-black.
@@ -96,16 +100,6 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 ### 0.2.1
 
 - Fixed editor colors.
-  
-### 0.2.0
-
-- Added suggestions for [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) extension.
-- Changed object property color to a less saturated one.
-
-### 0.1.7
-
-- Fixed colors of some active element indicators.
-- Fixed title bar border color.
 
 ## To do
 
@@ -113,7 +107,7 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 
 ## Feedback
 
-If you like the theme, you add a review here or star on [Github](https://github.com/IgorKrupenja/vscode-github-soft-theme).
+If you like the theme, please add a review here or star on [Github](https://github.com/IgorKrupenja/vscode-github-soft-theme).
 
 If you have suggestions, please open an [issue](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/new) or, even better, a [pull request](https://github.com/IgorKrupenja/vscode-github-soft-theme/pulls).
 

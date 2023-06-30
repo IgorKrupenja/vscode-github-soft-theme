@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.3
+
+- Fixed typo in Readme.
+
 ## 0.2.2
 
 - Made terminal cursor and default text color off-black.
