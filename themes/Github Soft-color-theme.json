@@ -25,6 +25,7 @@
     "checkbox.background": "#ffffff",
     "checkbox.border": "#d1d5da",
     "debugToolBar.background": "#ffffff",
+    "debugIcon.breakpointForeground": "#D73A49",
     "descriptionForeground": "#6a737d",
     "diffEditor.insertedTextBackground": "#34d05822",
     "diffEditor.removedTextBackground": "#d73a4922",
