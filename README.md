@@ -1,4 +1,4 @@
-# Github Soft Theme
+# GitHub Soft Theme
 
 A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Designed to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
 
@@ -8,21 +8,21 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 
 1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-soft-theme).
 2. Click on the "Install" button and wait for the installation to complete.
-3. Choose "Github Soft" from the list that appears.
+3. Choose "GitHub Soft" from the list that appears.
 
 ## Screenshots
 
 ### TypeScript
 
-![Github Soft Theme with TypeScript](images/screenshot-ts.png)
+![GitHub Soft Theme with TypeScript](images/screenshot-ts.png)
 
 ### React TSX
 
-![Github Soft Theme with React TSX](images/screenshot-tsx.png)
+![GitHub Soft Theme with React TSX](images/screenshot-tsx.png)
 
 ### SCSS, panel and sidebar
 
-![Github Soft Theme with SCSS](images/screenshot-scss.png)
+![GitHub Soft Theme with SCSS](images/screenshot-scss.png)
 
 ## Recommended settings for other extensions
 
@@ -84,7 +84,7 @@ It can also be enabled per-language if needed, for example:
 },
 ```
 
-## Change log
+## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
@@ -103,7 +103,7 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 
 ## Feedback
 
-If you like the theme, please add a review here or star on [Github](https://github.com/IgorKrupenja/vscode-github-soft-theme).
+If you like the theme, please add a review here or star on [GitHub](https://github.com/IgorKrupenja/vscode-github-soft-theme).
 
 If you have suggestions, please open an [issue](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/new) or, even better, a [pull request](https://github.com/IgorKrupenja/vscode-github-soft-theme/pulls).
 
