@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.2.4
+
+- Fixed capitalisation mistake in theme name.
+- Made breakpoint icon less saturated to match theme colors.
+- Modified peek view colors to match theme colors.
+- Modified progress bar color to match theme colors.
+
 ## 0.2.3
 
 - Fixed typo in Readme.
