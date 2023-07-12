@@ -4,6 +4,10 @@ A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) wit
 
 The theme also offers a flatter UI with a uniform white color for editor, panel and sidebar backgrounds.
 
+## ⚠️ Breaking changes
+
+Theme name was slightly changed in version 1.0.0. This might require some settings changes, please have a look below [for details](#100).
+
 ## Install
 
 1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-soft-theme).
@@ -104,6 +108,13 @@ It can also be enabled per-language if needed, for example:
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
+
+## 1.0.0
+
+- Fixed capitalisation mistake in theme name, replaced "Github" with "Git**H**ub". Note that this could be a breaking change for some. If you are having issues, please check your settings and update the theme name accordingly. In particular, `workbench.colorTheme` and `workbench.preferredLightColorTheme`. If you had any customizations, also check `editor.tokenColorCustomizations` and `workbench.colorCustomizations`.
+- Made breakpoint icon less saturated to match theme colors.
+- Modified peek view colors to match theme colors.
+- Modified progress bar color to match theme colors.
 
 ### 0.2.3
 
