@@ -4,7 +4,7 @@ A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) wit
 
 The theme also offers a flatter UI with a uniform white color for editor, panel and sidebar backgrounds.
 
-## ⚠️ Breaking changes
+## Breaking changes ⚠️
 
 Theme name was slightly changed in version 1.0.0. This might require some settings changes, please have a look below [for details](#100).
 
