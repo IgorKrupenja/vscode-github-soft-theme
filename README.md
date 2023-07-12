@@ -2,7 +2,7 @@
 
 A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Designed to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
 
-The theme also offers a flatter UI with a uniform white color for panels and sidebar.
+The theme also offers a flatter UI with a uniform white color for editor, panel and sidebar backgrounds.
 
 ## Install
 
@@ -67,6 +67,23 @@ The theme also offers a flatter UI with a uniform white color for panels and sid
 ## Customization
 
 To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme). A detailed list of available color customizations is [here](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
+
+### Editor syntax highlighting
+
+You can also [customise editor syntax highlighting](https://code.visualstudio.com/docs/getstarted/themes#_editor-syntax-highlighting). An example:
+
+```json
+"editor.tokenColorCustomizations": {
+  "[GitHub Light Soft]": {
+    "textMateRules": [
+      {
+        "scope": ["variable.object.property.tsx"],
+        "settings": { "foreground": "#ff0000" }
+      }
+    ]
+  }
+}
+```
 
 ### Semantic highlighting
 
