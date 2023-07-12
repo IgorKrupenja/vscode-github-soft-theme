@@ -9,7 +9,8 @@
   },
   "scripts": {
     "publish-patch": "vsce publish patch && git push --no-verify && git push origin --tags --no-verify",
-    "publish-minor": "vsce publish minor && git push --no-verify && git push origin --tags --no-verify"
+    "publish-minor": "vsce publish minor && git push --no-verify && git push origin --tags --no-verify",
+    "publish-major": "vsce publish major && git push --no-verify && git push origin --tags --no-verify"
   },
   "categories": [
     "Themes"
