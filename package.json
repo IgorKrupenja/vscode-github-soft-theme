@@ -2,7 +2,7 @@
   "name": "vscode-github-soft-theme",
   "displayName": "GitHub Soft Theme",
   "description": "Modern, light and easy on the eyes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "IgorKrupenja",
   "engines": {
     "vscode": "^1.70.0"
