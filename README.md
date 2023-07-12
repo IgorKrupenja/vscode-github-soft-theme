@@ -78,7 +78,7 @@ You can also [customise editor syntax highlighting](https://code.visualstudio.co
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[GitHub Light Soft]": {
+  "[GitHub Soft]": {
     "textMateRules": [
       {
         "scope": ["variable.object.property.tsx"],
@@ -108,6 +108,10 @@ It can also be enabled per-language if needed, for example:
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
+
+## 1.0.1
+
+- Fix typo in Editor syntax highlighting in Readme.
 
 ## 1.0.0
 

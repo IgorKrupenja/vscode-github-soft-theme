@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.1
+
+- Fix typo in Editor syntax highlighting in Readme.
+
 ## 1.0.0
 
 - Fixed capitalisation mistake in theme name, replaced "Github" with "Git**H**ub". Note that this could be a breaking change for some. If you are having issues, please check your settings and update the theme name accordingly. In particular, `workbench.colorTheme` and `workbench.preferredLightColorTheme`. If you had any customizations, also check `editor.tokenColorCustomizations` and `workbench.colorCustomizations`.
