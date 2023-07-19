@@ -1,8 +1,8 @@
-# Change Log
+# Changelog
 
 ## 1.0.1
 
-- Fix typo in Editor syntax highlighting in Readme.
+- Fixed typo in Editor syntax highlighting in Readme.
 
 ## 1.0.0
 

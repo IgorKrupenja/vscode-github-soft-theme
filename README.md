@@ -6,9 +6,9 @@ The theme also offers a flatter UI with a uniform white color for editor, panel 
 
 ## Breaking changes ⚠️
 
-Theme name was slightly changed in version 1.0.0. This might require some settings changes, please have a look below [for details](#100).
+Theme name was changed slightly in version 1.0.0. This might require some settings changes, please have a look below [for details](#100).
 
-## Install
+## Installation
 
 1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-soft-theme).
 2. Click on the "Install" button and wait for the installation to complete.
@@ -111,7 +111,7 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 
 ## 1.0.1
 
-- Fix typo in Editor syntax highlighting in Readme.
+- Fixed typo in Editor syntax highlighting in Readme.
 
 ## 1.0.0
 
