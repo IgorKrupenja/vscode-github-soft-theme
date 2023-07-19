@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Fixed grammar and formatting in Readme.
+
 ## 1.0.1
 
 - Fixed typo in Editor syntax highlighting in Readme.
