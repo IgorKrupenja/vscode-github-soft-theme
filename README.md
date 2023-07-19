@@ -109,11 +109,11 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-## 1.0.1
+### 1.0.1
 
 - Fixed typo in Editor syntax highlighting in Readme.
 
-## 1.0.0
+### 1.0.0
 
 - Fixed capitalisation mistake in theme name, replaced "Github" with "Git**H**ub". Note that this could be a breaking change for some. If you are having issues, please check your settings and update the theme name accordingly. In particular, `workbench.colorTheme` and `workbench.preferredLightColorTheme`. If you had any customizations, also check `editor.tokenColorCustomizations` and `workbench.colorCustomizations`.
 - Made breakpoint icon less saturated to match theme colors.
