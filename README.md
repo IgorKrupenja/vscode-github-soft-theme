@@ -109,6 +109,10 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
+### 1.0.3
+
+- Made editor ruler color match other theme colors.
+
 ### 1.0.2
 
 - Fixed grammar and formatting in Readme.
@@ -127,11 +131,6 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 ### 0.2.3
 
 - Fixed typo in Readme.
-
-### 0.2.2
-
-- Made terminal cursor and default text color off-black.
-- Made notification background white.
 
 ## To do
 

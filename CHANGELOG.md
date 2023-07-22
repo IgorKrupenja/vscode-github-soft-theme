@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- Made editor ruler color match other theme colors.
+
 ## 1.0.2
 
 - Fixed grammar and formatting in Readme.
