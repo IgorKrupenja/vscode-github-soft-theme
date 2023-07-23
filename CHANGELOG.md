@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.3
+## 1.1.0
 
 - Made editor ruler color match other theme colors.
 - Made editor range highlight color (`editor.rangeHighlightBackground`) less saturated.

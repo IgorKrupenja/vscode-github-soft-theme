@@ -109,7 +109,7 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-### 1.0.3
+### 1.1.0
 
 - Made editor ruler color match other theme colors.
 - Made editor range highlight color (`editor.rangeHighlightBackground`) less saturated.
