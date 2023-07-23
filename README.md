@@ -70,7 +70,7 @@ Theme name was changed slightly in version 1.0.0. This might require some settin
 
 ## Customization
 
-To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme). A detailed list of available color customizations is [here](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
+To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme). For a detailed list of available color customizations, see [theme color reference](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
 
 ### Editor syntax highlighting
 
@@ -112,6 +112,10 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 ### 1.0.3
 
 - Made editor ruler color match other theme colors.
+- Made editor range highlight color (`editor.rangeHighlightBackground`) less saturated.
+- Made GraphQL syntax highlighting colors less saturated.
+- Changed type color to brown(ish) to make it more distinct and have brightness better match other colors. Previously it was too similar to the color of unused variables.
+- Made TS primitive type color match other types.
 
 ### 1.0.2
 
