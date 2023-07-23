@@ -650,6 +650,12 @@
     {
       "scope": ["support.type.primitive.ts"],
       "settings": { "foreground": "#9C602B" }
+    },
+    {
+      "scope": "support.type.builtin.ts",
+      "settings": {
+        "foreground": "#9C602B"
+      }
     }
   ]
 }
