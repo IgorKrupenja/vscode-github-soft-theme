@@ -178,6 +178,15 @@
     "terminal.tab.activeBorder": "#4f9eeb",
     "terminalCursor.background": "#d1d5da",
     "terminalCursor.foreground": "#24292e",
+    "testing.runAction": "#22863A",
+    "testing.iconPassed": "#22863A",
+    "testing.iconFailed": "#d73a49",
+    "testing.iconErrored": "#d73a49",
+    "testing.message.error.decorationForeground": "#cb2431",
+    "testing.peekBorder": "#cb2431",
+    "testing.iconQueued": "#dbab09",
+    "testing.iconUnset": "#6a737d",
+    "testing.iconSkipped": "#6a737d",
     "textBlockQuote.background": "#fafbfc",
     "textBlockQuote.border": "#e1e4e8",
     "textCodeBlock.background": "#f6f8fa",
@@ -580,7 +589,7 @@
     {
       "scope": "support.class.component.tsx",
       "settings": {
-        "foreground": "#9D6105"
+        "foreground": "#9C602B"
       }
     },
     {
@@ -616,18 +625,6 @@
       "settings": { "foreground": "#24292E" }
     },
     {
-      "scope": "support.type.graphql",
-      "settings": { "foreground": "#4F9EEB" }
-    },
-    {
-      "scope": "constant.character.enum.graphql",
-      "settings": { "foreground": "#4F9EEB" }
-    },
-    {
-      "scope": "support.type.builtin.graphql",
-      "settings": { "foreground": "#4F9EEB" }
-    },
-    {
       "scope": "variable",
       "settings": { "foreground": "#24292E" }
     },
@@ -653,6 +650,12 @@
     },
     {
       "scope": "support.type.builtin.ts",
+      "settings": {
+        "foreground": "#9C602B"
+      }
+    },
+    {
+      "scope": "support.type.primitive.tsx",
       "settings": {
         "foreground": "#9C602B"
       }

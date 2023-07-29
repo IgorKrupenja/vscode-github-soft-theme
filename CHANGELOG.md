@@ -5,8 +5,9 @@
 - Made editor ruler color match other theme colors.
 - Made editor range highlight color (`editor.rangeHighlightBackground`) less saturated.
 - Made GraphQL syntax highlighting colors less saturated.
-- Changed type color to brown(ish) to make it more distinct and have brightness better match other colors. Previously it was too similar to the color of unused variables.
-- Made TS primitive type color match other types.
+- Changed type color to brown(ish) to make it more distinct and have brightness better matching other colors. Previously it was too similar to the color of unused variables.
+- Made TS/TSX primitive type color match other types.
+- Made [testing colors](https://code.visualstudio.com/api/references/theme-color#testing-colors) match other theme colors.
 
 ## 1.0.2
 
