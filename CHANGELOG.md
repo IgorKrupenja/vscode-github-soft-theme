@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Made git conflicted resource color less saturated.
+
 ## 1.1.0
 
 - Made editor ruler color match other theme colors.

@@ -1,12 +1,12 @@
 # GitHub Soft Theme
 
-A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Designed to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
+A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Designed to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light), [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
 
 The theme also offers a flatter UI with a uniform white color for editor, panel and sidebar backgrounds.
 
 ## Breaking changes ⚠️
 
-Theme name was changed slightly in version 1.0.0. This might require some settings changes, please have a look below [for details](#100).
+Theme name was changed slightly in version 1.0.0 to fix a typo. This might require some settings changes, please have a look below [for details](#100).
 
 ## Installation
 
@@ -108,6 +108,10 @@ It can also be enabled per-language if needed, for example:
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
+
+### 1.1.1
+
+- Made git conflicted resource color less saturated.
 
 ### 1.1.0
 
