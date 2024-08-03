@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.7
+
+- Fix version info in Readme and changelog.
+
 ## 1.2.6
 
 - Reduce packaged extension size 50x by removing unnecessary files.

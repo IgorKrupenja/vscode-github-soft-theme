@@ -130,6 +130,10 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
+### 1.2.7
+
+- Fix version info in Readme and changelog.
+
 ### 1.2.6
 
 - Reduce packaged extension size 50x by removing unnecessary files.
