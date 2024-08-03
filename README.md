@@ -2,15 +2,19 @@
 
 A modern light theme for [Visual Studio Code](http://code.visualstudio.com/) with lower saturation colors. Designed to be easy on the eyes. Based on [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme). Other sources of inspiration are [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code), [Nord Light](https://marketplace.visualstudio.com/items?itemName=huytd.nord-light), [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) and [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse).
 
-The theme also offers a flatter UI with a uniform white color for editor, panel and sidebar backgrounds.
-
-## Breaking changes ⚠️
-
-Theme name was changed slightly in version 1.0.0 to fix a typo. This might require some settings changes, please have a look below [for details](#100).
+The theme also offers a flatter UI with a uniform white background color for editor, panel and sidebar.
 
 ## Installation
 
-1. Open the theme page on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-soft-theme).
+Using CLI:
+
+```sh
+code --install-extension IgorKrupenja.vscode-github-soft-theme
+```
+
+Or from the VSCode Marketplace:`
+
+1. Open the [theme page on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-soft-theme).
 2. Click on the "Install" button and wait for the installation to complete.
 3. Choose "GitHub Soft" from the list that appears.
 
@@ -68,6 +72,23 @@ Theme name was changed slightly in version 1.0.0 to fix a typo. This might requi
 ],
 ```
 
+### [Jumpy2](https://marketplace.visualstudio.com/items?itemName=DavidLGoldberg.jumpy2)
+
+Note that these have to be set through `workbench.colorCustomizations` and can be set per-theme, e.g.:
+
+```json
+"workbench.colorCustomizations": {
+  "[GitHub Soft]": {
+    "jumpy2.labelFontColor": "#FFFFFF",
+    "jumpy2.labelBackgroundColor": "#5a32a3",
+    "jumpy2.labelBorderColor": "#5a32a3",
+    "jumpy2.checkered_labelFontColor": "#FFFFFF",
+    "jumpy2.checkered_labelBackgroundColor": "#5a32a3",
+    "jumpy2.checkered_labelBorderColor": "#5a32a3"
+  }
+},
+```
+
 ## Customization
 
 To customize this theme, refer to the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme). For a detailed list of available color customizations, see [theme color reference](https://code.visualstudio.com/api/references/theme-color). This allows you to conveniently make minor adjustments to the theme without the need to create and manage your own theme repository.
@@ -91,7 +112,7 @@ You can also [customise editor syntax highlighting](https://code.visualstudio.co
 
 ### Semantic highlighting
 
-[Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) is **disabled** for this theme by default. I found the feature too colorful and distracting. If you want to enable it, add the following to your settings:
+[Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide) is **disabled** for this theme by default. I found the feature too flashy and distracting. If you want to enable it, add the following to your settings:
 
 ```json
 "editor.semanticHighlighting.enabled": true,
@@ -109,6 +130,11 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
+### 1.1.2
+
+- Fixed a broken link and other minor issues in Readme.
+- Added recommended colors for [Jumpy2 extension](https://marketplace.visualstudio.com/items?itemName=DavidLGoldberg.jumpy2).
+
 ### 1.1.1
 
 - Made git conflicted resource color less saturated.
@@ -121,21 +147,6 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 - Changed type color to brown(ish) to make it more distinct and have brightness better matching other colors. Previously it was too similar to the color of unused variables.
 - Made TS/TSX primitive type color match other types.
 - Made [testing colors](https://code.visualstudio.com/api/references/theme-color#testing-colors) match other theme colors.
-
-### 1.0.2
-
-- Fixed grammar and formatting in Readme.
-
-### 1.0.1
-
-- Fixed typo in Editor syntax highlighting in Readme.
-
-### 1.0.0
-
-- Fixed capitalisation mistake in theme name, replaced "Github" with "Git**H**ub". Note that this could be a breaking change for some. If you are having issues, please check your settings and update the theme name accordingly. In particular, `workbench.colorTheme` and `workbench.preferredLightColorTheme`. If you had any customizations, also check `editor.tokenColorCustomizations` and `workbench.colorCustomizations`.
-- Made breakpoint icon less saturated to match theme colors.
-- Modified peek view colors to match theme colors.
-- Modified progress bar color to match theme colors.
 
 ## To do
 

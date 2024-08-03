@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2
+
+- Fixed a broken link and other minor issues in Readme.
+- Added recommended colors for [Jumpy2 extension](https://marketplace.visualstudio.com/items?itemName=DavidLGoldberg.jumpy2).
+
 ## 1.1.1
 
 - Made git conflicted resource color less saturated.
