@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.3
+
+- Fix typo in Readme.
+
 ## 1.2.2
 
 - Fix version info in Readme and changelog.

@@ -12,7 +12,7 @@ Using CLI:
 code --install-extension IgorKrupenja.vscode-github-soft-theme
 ```
 
-Or from the VSCode Marketplace:`
+Or from the VSCode Marketplace:
 
 1. Open the [theme page on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=IgorKrupenja.vscode-github-soft-theme).
 2. Click on the "Install" button and wait for the installation to complete.
@@ -129,6 +129,10 @@ It can also be enabled per-language if needed, for example:
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
+
+### 1.2.3
+
+- Fix typo in Readme.
 
 ### 1.2.2
 
