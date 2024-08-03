@@ -130,15 +130,15 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-### 1.2.4
+### 1.2.6
 
 - Reduce packaged extension size 50x by removing unnecessary files.
 
-### 1.2.3
+### 1.2.5
 
 - Fix typo in Readme.
 
-### 1.2.2
+### 1.2.3
 
 - Fix version info in Readme and changelog.
 
