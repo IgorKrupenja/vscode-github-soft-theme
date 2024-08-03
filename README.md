@@ -130,12 +130,16 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-### 1.1.2
+### 1.2.2
+
+- Fix version info in Readme and changelog.
+
+### 1.2.1
 
 - Fixed a broken link and other minor issues in Readme.
 - Added recommended colors for [Jumpy2 extension](https://marketplace.visualstudio.com/items?itemName=DavidLGoldberg.jumpy2).
 
-### 1.1.1
+### 1.2.0
 
 - Made git conflicted resource color less saturated.
 
