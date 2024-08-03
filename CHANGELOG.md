@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.4
+
+- Reduce packaged extension size 50x by removing unnecessary files.
+
 ## 1.2.3
 
 - Fix typo in Readme.
