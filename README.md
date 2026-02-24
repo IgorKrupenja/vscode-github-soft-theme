@@ -158,8 +158,8 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 ### 1.3.0
 
 - Fixed TypeScript inherited class name color (`implements ClassName`).
-- Fixed YAML `!(...)` expressions no longer rendering as italic red.
-- Fixed SVG path command letters no longer rendering in bright pink.
+- Fixed YAML `!(...)` expression color and style (e.g. GitHub Actions `!contains(...)`).
+- Fixed SVG path command letter colors (M, L, C, Z, etc.).
 - Added recommended color settings for [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) extension.
 - Improved markdown preview inline code colors.
 - Added Peek view screenshot.

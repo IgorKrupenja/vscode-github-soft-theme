@@ -3,8 +3,8 @@
 ## 1.3.0
 
 - Fixed TypeScript inherited class name color (`implements ClassName`) to match other type names ([#36](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/36)).
-- Fixed YAML `!(...)` expressions (e.g. GitHub Actions `!contains(...)`) no longer rendering as italic red ([#39](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/39)).
-- Fixed SVG path command letters (M, L, C, Z, etc.) no longer rendering in bright pink ([#35](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/35)).
+- Fixed YAML `!(...)` expression color and style (e.g. GitHub Actions `!contains(...)`) ([#39](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/39)).
+- Fixed SVG path command letter colors (M, L, C, Z, etc.) ([#35](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/35)).
 - Added recommended color settings for [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) extension to Readme ([#41](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/41)).
 - Improved markdown preview inline code colors: added `textPreformat.background` and updated foreground to match GitHub style ([#8](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/8)).
 - Added Peek view screenshot to Readme ([#26](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/26)).
