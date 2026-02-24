@@ -155,6 +155,10 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
+### 1.4.1
+
+- Fix version number to be in sync with Marketplace.
+
 ### 1.4.0
 
 - Fixed TypeScript inherited class name color (`implements ClassName`) to match other type names ([#36](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/36)).
