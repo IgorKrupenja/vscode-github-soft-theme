@@ -668,6 +668,13 @@
       "settings": {
         "foreground": "#9C602B"
       }
+    },
+    {
+      "scope": "source.yaml invalid.illegal",
+      "settings": {
+        "foreground": "#24292E",
+        "fontStyle": ""
+      }
     }
   ]
 }
