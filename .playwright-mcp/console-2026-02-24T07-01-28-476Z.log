@@ -1,3 +1,0 @@
-[     526ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: 'speaker'. @ :0
-[    2791ms] [ERROR] Not signed in with the identity provider. @ https://stackoverflow.com/questions/55180020/set-background-color-on-visual-studio-code-markdown-preview/57223454#57223454:0
-[    5939ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:81
