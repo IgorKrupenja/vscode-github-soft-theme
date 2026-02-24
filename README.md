@@ -185,10 +185,6 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 - Made TS/TSX primitive type color match other types.
 - Made [testing colors](https://code.visualstudio.com/api/references/theme-color#testing-colors) match other theme colors.
 
-## To do
-
-- Investigate changing markdown preview code block colors, [#8](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/8).
-
 ## Feedback
 
 If you like the theme, please add a review here or star on [GitHub](https://github.com/IgorKrupenja/vscode-github-soft-theme).
