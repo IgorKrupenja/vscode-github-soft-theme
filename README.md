@@ -72,6 +72,27 @@ Or from the VSCode Marketplace:
 ],
 ```
 
+### [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+```json
+"quokka.colors": {
+  "covered": "#22863A",
+  "notCovered": "#959DA5",
+  "partiallyCovered": "#DBAB09",
+  "errorSource": "#D73A49",
+  "errorPath": "#F97583"
+},
+"quokka.lightTheme.log.decorationAttachmentRenderOptions": {
+  "color": "#005CC5"
+},
+"quokka.lightTheme.system.decorationAttachmentRenderOptions": {
+  "color": "#6A737D"
+},
+"quokka.lightTheme.error.decorationAttachmentRenderOptions": {
+  "color": "#D73A49"
+},
+```
+
 ### [Jumpy2](https://marketplace.visualstudio.com/items?itemName=DavidLGoldberg.jumpy2)
 
 Note that these have to be set through `workbench.colorCustomizations` and can be set per-theme, e.g.:
