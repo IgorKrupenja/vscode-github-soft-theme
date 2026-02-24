@@ -675,6 +675,12 @@
         "foreground": "#24292E",
         "fontStyle": ""
       }
+    },
+    {
+      "scope": "source.svg keyword",
+      "settings": {
+        "foreground": "#24292E"
+      }
     }
   ]
 }
