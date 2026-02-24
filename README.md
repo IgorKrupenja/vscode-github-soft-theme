@@ -155,14 +155,14 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
-### 1.3.0
+### 1.4.0
 
-- Fixed TypeScript inherited class name color (`implements ClassName`).
-- Fixed YAML `!(...)` expression color and style (e.g. GitHub Actions `!contains(...)`).
-- Fixed SVG path command letter colors (M, L, C, Z, etc.).
-- Added recommended color settings for [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) extension.
-- Improved markdown preview inline code colors.
-- Added Peek view screenshot.
+- Fixed TypeScript inherited class name color (`implements ClassName`) to match other type names ([#36](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/36)).
+- Fixed YAML `!(...)` expression color and style (e.g. GitHub Actions `!contains(...)`) ([#39](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/39)).
+- Fixed SVG path command letter colors (M, L, C, Z, etc.) ([#35](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/35)).
+- Added recommended color settings for [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) extension to Readme ([#41](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/41)).
+- Improved markdown preview inline code colors: added `textPreformat.background` and updated foreground to match GitHub style ([#8](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/8)).
+- Added Peek view screenshot to Readme ([#26](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/26)).
 
 ### 1.2.7
 

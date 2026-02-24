@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.3.0
+## 1.4.0
 
 - Fixed TypeScript inherited class name color (`implements ClassName`) to match other type names ([#36](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/36)).
 - Fixed YAML `!(...)` expression color and style (e.g. GitHub Actions `!contains(...)`) ([#39](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/39)).
