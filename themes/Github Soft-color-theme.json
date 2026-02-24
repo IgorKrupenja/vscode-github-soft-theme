@@ -659,6 +659,15 @@
       "settings": {
         "foreground": "#9C602B"
       }
+    },
+    {
+      "scope": [
+        "entity.other.inherited-class.ts",
+        "entity.other.inherited-class.tsx"
+      ],
+      "settings": {
+        "foreground": "#9C602B"
+      }
     }
   ]
 }
