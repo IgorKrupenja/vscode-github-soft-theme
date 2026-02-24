@@ -32,6 +32,10 @@ Or from the VSCode Marketplace:
 
 ![GitHub Soft Theme with SCSS](images/screenshot-scss.png)
 
+### Peek view
+
+![GitHub Soft Theme with Peek view](images/screenshot-peek.png)
+
 ## Recommended settings for other extensions
 
 ### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
