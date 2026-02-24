@@ -32,6 +32,10 @@ Or from the VSCode Marketplace:
 
 ![GitHub Soft Theme with SCSS](images/screenshot-scss.png)
 
+### Peek view
+
+![GitHub Soft Theme with Peek view](images/screenshot-peek.png)
+
 ## Recommended settings for other extensions
 
 ### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -70,6 +74,27 @@ Or from the VSCode Marketplace:
   "#5B32A3",
   "#1C7C82"
 ],
+```
+
+### [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+```json
+"quokka.colors": {
+  "covered": "#22863A",
+  "notCovered": "#959DA5",
+  "partiallyCovered": "#DBAB09",
+  "errorSource": "#D73A49",
+  "errorPath": "#F97583"
+},
+"quokka.lightTheme.log.decorationAttachmentRenderOptions": {
+  "color": "#005CC5"
+},
+"quokka.lightTheme.system.decorationAttachmentRenderOptions": {
+  "color": "#6A737D"
+},
+"quokka.lightTheme.error.decorationAttachmentRenderOptions": {
+  "color": "#D73A49"
+},
 ```
 
 ### [Jumpy2](https://marketplace.visualstudio.com/items?itemName=DavidLGoldberg.jumpy2)
@@ -130,6 +155,15 @@ It can also be enabled per-language if needed, for example:
 
 See [CHANGELOG.md](CHANGELOG.md) for details.
 
+### 1.3.0
+
+- Fixed TypeScript inherited class name color (`implements ClassName`).
+- Fixed YAML `!(...)` expression color and style (e.g. GitHub Actions `!contains(...)`).
+- Fixed SVG path command letter colors (M, L, C, Z, etc.).
+- Added recommended color settings for [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) extension.
+- Improved markdown preview inline code colors.
+- Added Peek view screenshot.
+
 ### 1.2.7
 
 - Fix version info in Readme and changelog.
@@ -163,10 +197,6 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 - Changed type color to brown(ish) to make it more distinct and have brightness better matching other colors. Previously it was too similar to the color of unused variables.
 - Made TS/TSX primitive type color match other types.
 - Made [testing colors](https://code.visualstudio.com/api/references/theme-color#testing-colors) match other theme colors.
-
-## To do
-
-- Investigate changing markdown preview code block colors, [#8](https://github.com/IgorKrupenja/vscode-github-soft-theme/issues/8).
 
 ## Feedback
 

@@ -192,7 +192,8 @@
     "textCodeBlock.background": "#f6f8fa",
     "textLink.activeForeground": "#4f9eeb",
     "textLink.foreground": "#005cc5",
-    "textPreformat.foreground": "#586069",
+    "textPreformat.background": "#f6f8fa",
+    "textPreformat.foreground": "#24292E",
     "textSeparator.foreground": "#d1d5da",
     "titleBar.activeBackground": "#ffffff",
     "titleBar.activeForeground": "#2f363d",
@@ -658,6 +659,28 @@
       "scope": "support.type.primitive.tsx",
       "settings": {
         "foreground": "#9C602B"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.inherited-class.ts",
+        "entity.other.inherited-class.tsx"
+      ],
+      "settings": {
+        "foreground": "#9C602B"
+      }
+    },
+    {
+      "scope": "source.yaml invalid.illegal",
+      "settings": {
+        "foreground": "#24292E",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "source.svg keyword",
+      "settings": {
+        "foreground": "#24292E"
       }
     }
   ]
